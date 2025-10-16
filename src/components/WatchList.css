@@ -1,0 +1,44 @@
+.watchlist-container {
+  background-color: hsl(0, 29%, 97%);
+  color: rgb(12, 231, 37);
+  padding: 10px;
+  border-radius: 12px;
+  width: 320px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.search-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.search {
+  width: 100%;
+  background-color: rgb(144, 201, 252);
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+.search-container input{
+  color: black;
+}
+
+.counts {
+  font-size: 1rem;
+  color: hsl(140, 95%, 49%);
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.list::-webkit-scrollbar {
+  display: none;
+}

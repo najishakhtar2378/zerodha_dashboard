@@ -1,0 +1,52 @@
+.menu-container {
+  width: 200px;
+  background-color: #f9f6f6;
+  color: #fff;
+  height: 100vh;
+  padding: 10px;
+}
+
+.menu-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu-container li {
+  margin: 10px 0;
+}
+
+.activeMenu {
+  color: #00bcd4;
+  font-weight: bold;
+}
+
+.menu {
+  color: gray;
+  transition: 0.3s;
+}
+
+.menu:hover {
+  color: white;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.avatar {
+  background: #00bcd4;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.username{
+  color: #00d41c;
+}
