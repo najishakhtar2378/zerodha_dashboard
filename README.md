@@ -7,7 +7,7 @@ All Live Link and Their github link
   Github Link
   -Frontend: https://github.com/najishakhtar2378/Zerodha_Frontend.git
   -backend-https://github.com/najishakhtar2378/zerodha-backend.git
-  -dashboard-
+  -dashboard-https://github.com/najishakhtar2378/zerodha_dashboard.git
 
 # Getting Started with Create React App
 
