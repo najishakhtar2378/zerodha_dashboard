@@ -5,7 +5,9 @@ All Live Link and Their github link
 - Backend API: [https://zerodha-backend-dg3i.onrender.com](https://zerodha-backend-dg3i.onrender.com)
 
   Github Link
-  -Frontend:
+  -Frontend: https://github.com/najishakhtar2378/Zerodha_Frontend.git
+  -backend-https://github.com/najishakhtar2378/zerodha-backend.git
+  -dashboard-
 
 # Getting Started with Create React App
 
