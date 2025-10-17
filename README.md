@@ -1,10 +1,11 @@
 ## 🔗 Live Links
-All Live Link and Their github link
+All Live Link and Their github link [MERN STACK]
 - Frontend: [https://zerodha-frontend-gfnc.vercel.app](https://zerodha-frontend-gfnc.vercel.app)
 - Dashboard: [hhttps://zerodha-dashboard-sigma-seven.vercel.app/holdings](https://zerodha-dashboard-sigma-seven.vercel.app)
 - Backend API: [https://zerodha-backend-dg3i.onrender.com](https://zerodha-backend-dg3i.onrender.com)
 
   Github Link
+  
   -Frontend: https://github.com/najishakhtar2378/Zerodha_Frontend.git
   
   -backend-https://github.com/najishakhtar2378/zerodha-backend.git
