@@ -1,3 +1,10 @@
+## 🔗 Live Links
+All Live Link and Their github link
+- Frontend: [https://zerodha-frontend-gfnc.vercel.app](https://zerodha-frontend-gfnc.vercel.app)
+- Dashboard: [hhttps://zerodha-dashboard-sigma-seven.vercel.app/holdings](https://zerodha-dashboard-sigma-seven.vercel.app)
+- Backend API: [https://zerodha-backend-dg3i.onrender.com](https://zerodha-backend-dg3i.onrender.com)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
